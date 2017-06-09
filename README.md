@@ -6,7 +6,8 @@ code template for hack4good hackathons/datathons.
 Project Organization
 ------------
 
-This project organisation is [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) template. It assumes python as the implementation language but same directory structure can also be used for any R implementation.  
+This project organisation is based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). 
+It assumes python as the implementation language but same directory structure can also be used for any R implementation.  
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
